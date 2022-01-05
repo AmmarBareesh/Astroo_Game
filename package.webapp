@@ -1,0 +1,10 @@
+{
+  "name": "Astroo",
+  "description": "Astroo v1.0.1-ffos",
+  "package_path": "package.zip",
+  "version": "1",
+  "developer": {
+    "name": "Astroo",
+    "url": "https://ammar-barich.com"
+  }
+}
